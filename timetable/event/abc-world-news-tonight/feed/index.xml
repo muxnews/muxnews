@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: ABC World News Tonight	</title>
-	<atom:link href="https://muxnews.github.io/24SN/timetable/event/abc-world-news-tonight/feed/" rel="self" type="application/rss+xml" />
-	<link>https://muxnews.github.io/24SN/timetable/event/abc-world-news-tonight/</link>
+	<atom:link href="https://muxnews.github.io/muxnews/timetable/event/abc-world-news-tonight/feed/" rel="self" type="application/rss+xml" />
+	<link>https://muxnews.github.io/muxnews/timetable/event/abc-world-news-tonight/</link>
 	<description>Your Everyday News</description>
 	<lastBuildDate>Tue, 21 Feb 2023 12:53:58 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>24SN</title>
-	<atom:link href="https://muxnews.github.io/24SN/feed/" rel="self" type="application/rss+xml" />
-	<link>https://muxnews.github.io/24SN</link>
+	<title>MUX News</title>
+	<atom:link href="https://muxnews.github.io/muxnews/feed/" rel="self" type="application/rss+xml" />
+	<link>https://muxnews.github.io/muxnews</link>
 	<description>Your Everyday News</description>
 	<lastBuildDate>Wed, 09 Nov 2022 04:56:55 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,27 +21,27 @@
 	<generator>https://wordpress.org/?v=6.0.3</generator>
 
 <image>
-	<url>https://muxnews.github.io/24SN/wp-content/uploads/24sn-icon-i1.png</url>
-	<title>24SN</title>
-	<link>https://muxnews.github.io/24SN</link>
+	<url>https://muxnews.github.io/muxnews/wp-content/uploads/24sn-icon-i1.png</url>
+	<title>MUX News</title>
+	<link>https://muxnews.github.io/muxnews</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>https://muxnews.github.io/24SN/uncategorized/1/hello-world/</link>
-					<comments>https://muxnews.github.io/24SN/uncategorized/1/hello-world/#comments</comments>
+		<link>https://muxnews.github.io/muxnews/uncategorized/1/hello-world/</link>
+					<comments>https://muxnews.github.io/muxnews/uncategorized/1/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[24sn]]></dc:creator>
 		<pubDate>Wed, 09 Nov 2022 04:56:55 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://muxnews.github.io/24SN/?p=1</guid>
+		<guid isPermaLink="false">https://muxnews.github.io/muxnews/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-<p><a href="https://muxnews.github.io/24SN/uncategorized/1/hello-world/" rel="nofollow">Source</a></p>]]></content:encoded>
+<p><a href="https://muxnews.github.io/muxnews/uncategorized/1/hello-world/" rel="nofollow">Source</a></p>]]></content:encoded>
 					
-					<wfw:commentRss>https://muxnews.github.io/24SN/uncategorized/1/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://muxnews.github.io/muxnews/uncategorized/1/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

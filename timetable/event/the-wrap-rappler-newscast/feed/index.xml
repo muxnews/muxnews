@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: The wRap (Rappler Newscast)	</title>
-	<atom:link href="https://muxnews.github.io/24SN/timetable/event/the-wrap-rappler-newscast/feed/" rel="self" type="application/rss+xml" />
-	<link>https://muxnews.github.io/24SN/timetable/event/the-wrap-rappler-newscast/</link>
+	<atom:link href="https://muxnews.github.io/muxnews/timetable/event/the-wrap-rappler-newscast/feed/" rel="self" type="application/rss+xml" />
+	<link>https://muxnews.github.io/muxnews/timetable/event/the-wrap-rappler-newscast/</link>
 	<description>Your Everyday News</description>
 	<lastBuildDate>Tue, 21 Feb 2023 13:00:10 +0000</lastBuildDate>
 	<sy:updatePeriod>
